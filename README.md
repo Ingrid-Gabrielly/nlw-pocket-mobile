@@ -38,5 +38,22 @@ Siga o passo a passo abaixo para rodar o projeto localmente:
    - Caso necessário, atualize a `baseURL` com o novo endereço.  
 
 ## 📸 Resultado Final
+📱 O projeto é um aplicativo mobile de clube de benefícios com cupons para utilizar em estabelecimentos. 
+
+
+Confira abaixo como ficou o projeto desenvolvido durante o evento:  
+
+### **Start**  
+<img src="./assets/images/start.jpeg" alt="Start" width="200">  
+
+### **Home**  
+<img src="./assets/images/home.jpeg" alt="Home" width="200">  
+
+### **Details**  
+<img src="./assets/images/details.jpeg" alt="Details" width="200">  
+
+#### **Details with coupon**  
+<img src="./assets/images/details-coupon.jpeg" alt="Details with Coupon" width="200">  
 
 ## 📚 Minha Experiência
+Ter participado do **NLW POCKET MOBILE** foi uma ótima experiência. Não só me permitiu aprender, mas também me deu a chance de aplicar esse conhecimento na construção prática de um projeto, pronto para o mercado. Foi uma oportunidade incrível para consolidar minhas habilidades e abrir novas portas.
